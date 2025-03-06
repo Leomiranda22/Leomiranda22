@@ -1,4 +1,4 @@
-👩🏻‍💻Bem-vindo, sou o Léo, estou em constante aprendizado e evolução no ramo das analises, será um prazer ter você aqui prestigiando minha tragetória !!! 
+👩🏻‍💻Sou o Léo, estou em constante aprendizado e evolução no ramo das analises, será um prazer ter você aqui prestigiando minha tragetória. Sinta-se em casa bem vindo ;)
 
 - 👨‍🎓 Estudante de Ciência de dados 
 - 📊 Analise de dados com SQL, Python e Power BI
