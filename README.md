@@ -1,8 +1,8 @@
-👩🏻‍💻Bem-vinddo, sou o Léo !!
+👩🏻‍💻Bem-vindo, sou o Léo !!
 
 - 👨‍🎓 Estudante de Ciência de dados 
 - 📊 Analise de dados com SQL, Python e Power BI
-- 📫 Entre em contato pelo e-mail: contato.leonardomss@gmail.com
+
 
 
 <p align="left">
